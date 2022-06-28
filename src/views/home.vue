@@ -1,7 +1,7 @@
 <!--
  * @Author: 黄剑
  * @Date: 2022-06-22 12:45:34
- * @LastEditTime: 2022-06-22 12:45:59
+ * @LastEditTime: 2022-06-28 14:44:06
  * @LastEditors: 黄剑
  * @Description: 
  * @FilePath: \vue-admin\src\views\home.vue
@@ -9,7 +9,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <h1>Home.vue</h1>
+  <h1 class="bg-red-500">Home.vue</h1>
 </template>
 
 <style scoped></style>
